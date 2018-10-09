@@ -1,6 +1,6 @@
 # Alligator Creek - 28 to 29 July, 2018
 
-This was my first ever hike into the Australian wilderness. The hike we did was very dense in shrubbery and the terrain was very variable with some areas being flat, whilst others tended to be hilly and uneven. The environment is very quiet with not a lot of sounds, I compared it to the scenes in Jurassic Park, where there also is dense bush. The quietness reminded me of a different plant, like Mars. 
+This was my first ever hike into the Australian wilderness and I really enjoyed it. The hike we did was very dense in shrubbery and the terrain was very variable with some areas being flat, whilst others tended to be hilly and uneven. The environment is very quiet with not a lot of sounds, I compared it to the scenes in Jurassic Park, where there also is dense bush and a whole lot of nothing. The quietness was what I would imagine being on a different plant, such as Mars, would be like.
 
 ## Journey participants
 
@@ -60,11 +60,11 @@ The track acts as an access corrider for a transmission line, with one part foll
 
 ![5bbc6a5a3cba8](https://i.loli.net/2018/10/09/5bbc6a5a3cba8.jpg)
 
-The major part of this hike was seeing Alligator Creek Falls, which can be seen from a far below (look at the clearing in the trees, the rocky outcrop is the Falls!).
+The major part of this hike was seeing Alligator Creek Falls, which can be seen from afar in the below photo (look at the clearing in the trees, the rocky outcrop is the Falls!).
 
 ![5bbc6bd1e84c8](https://i.loli.net/2018/10/09/5bbc6bd1e84c8.jpg)
 
-Finally, these are the Falls, up close and personal.
+These are the glorious Alligator Creek Falls, up close and personal.
 
 ![5bbc6ce9250c6](https://i.loli.net/2018/10/09/5bbc6ce9250c6.jpg)
 
@@ -76,7 +76,7 @@ Finally here is everyone having fun (and me freezing, since the water was quite 
 
 ### Map
 
-The route we took covered a lot of area, all the way from the campsite and day area to Alligator Creek Falls. The map below showcases all the waypoints recorded along the journey, with the top left being the campsite and day area and the bottom right being the location of Alligator Creek Falls. The white lines correlate to the transmission lines we saw. You can access this map [here](https://drive.google.com/open?id=1ezpSHgLPYgO7Axf5CQmAoAjNjCYvcI_r&usp=sharing), theres some waypoint names and images as well!
+The route we took covered a lot of area, all the way from the campsite and day area to Alligator Creek Falls. The map below showcases all the waypoints recorded along the journey, with the top left being the campsite and day area and the bottom right being the location of Alligator Creek Falls. The white lines correlate to the transmission lines we saw. You can access this map [here](https://drive.google.com/open?id=1ezpSHgLPYgO7Axf5CQmAoAjNjCYvcI_r&usp=sharing), theres some waypoint names and images as well at that link!
 
 ![5bbc72ec85f93](https://i.loli.net/2018/10/09/5bbc72ec85f93.png)
 
@@ -108,11 +108,13 @@ The equipment I took in my pack consisted something of this,
 
 - 1 x gas burner
 
-In the end I could heavily cut down on the clothes I bought, all I need *really* are pyjamas and maybe something to keep me warm depending on the climate. Also, I doubt I will ever need spare shoes, I think it was a miracle I brought it on this trip as my original shoes did get wholly inundated at the creek crossing.
+In the end I could heavily cut down on the clothes I bought, all I need *really* are pyjamas and maybe something to keep me warm depending on the climate. Also, I doubt I will ever need spare shoes, I think it was a miracle I brought it on this trip as my original shoes did get wholly inundated at the creek crossing. 
+
+As for the weight of my pack, I think it did end up tipping the scales at around 15 kilograms, but I did find that quite easy and comfortable! However, I did have some minor back and shoulder pain on the night that we spent at the campsite but that cleared up the next day.
 
 ### Food
 
-The food contained within the drawstring bag full of food contained too much unnecessary food articles such as snacks. My portion sizes were not that bad, this meant I didn't bring back a lot of food. 
+The food contained within the drawstring bag full of food contained too much unnecessary food articles such as snacks. My portion sizes were not that bad, this meant I didn't bring back a lot of food from my preplanned meals such as dinner and breakfast. My plan of attack next time is to consolidate my snacks into one bag of trail mix, and take just that convenient bag instead of a million. 
 
 
 
