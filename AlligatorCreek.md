@@ -120,4 +120,4 @@ Also next time I probably will document all my equipment with photos, maybe with
 
 
 
-← Back to home page
+[← Back to home page](https://riversharp4.github.io/DukeOfEdinburgh/)
