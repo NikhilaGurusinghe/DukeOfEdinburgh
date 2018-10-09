@@ -1,1 +1,1 @@
-# DukeOfEd
+# Duke of Edinburgh
