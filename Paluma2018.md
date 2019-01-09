@@ -116,13 +116,19 @@ From left to right, the equipment is the first aid kit, the ground tarp, the acc
 
 ### Food List and Menu Plan
 
-| List                                                                                                                  | Review and Description of Items |
-| --------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| The full food and utensil list can be found [here](https://riversharp4.github.io/DukeOfEdinburgh/DukeofEdAJFood.pdf). |                                 |
+| List                                                                                                                  | Review and Description of Items                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| The full food and utensil list can be found [here](https://riversharp4.github.io/DukeOfEdinburgh/DukeofEdAJFood.pdf). | For this trip the food was well planned as well as well executed. Making food "from scratch" at a campsite is definitely gratifying. All in all we made dinner, dessert, breakfast and lunch "from scratch" for two from the supplies we carried in. One critique from dinner was the amount of time cooking the pasta took, which was really unreasonable. Other than this critique there was no other problems or issues with our food plan. Also this time around I consolidated all my snacks into a single bag of trail mix which was handy and worked really well. |
 
 ---
 
 ### Description of Journey
+
+#### Day 1
+
+We were driven all the way from Kirwan State High School to Paluma Dam in the morning. Paluma Dam is very extensive and large, supplying water to the township of Paluma. This was the starting point of our hike.
+
+![5c35dde1424f4](https://i.loli.net/2019/01/09/5c35dde1424f4.jpg)
 
 
 

@@ -1,4 +1,4 @@
-# Alligator Creek - 28 to 29 July, 2018
+# Alligator Creek - 28 to 29 July, 2018
 
 This was my first ever hike into the Australian wilderness and I really enjoyed it. The hike we did was very dense in shrubbery and the terrain was very variable with some areas being flat, whilst others tended to be hilly and uneven. The environment is very quiet with not a lot of sounds, I compared it to the scenes in Jurassic Park, where there also is dense bush and a whole lot of nothing. The quietness was what I would imagine being on a different plant, such as Mars, would be like.
 
@@ -7,8 +7,6 @@ This was my first ever hike into the Australian wilderness and I really enjoyed 
 All together there were 13 participants on this Journey, consisting of 9 students as seen below.
 
 ![5bbc5d8d1c4e8](https://i.loli.net/2018/10/09/5bbc5d8d1c4e8.jpg)
-
-
 
 From left to right,
 
@@ -30,8 +28,6 @@ From left to right,
 
 - Noah Roden
 
-
-
 That leaves 4 adults that also joined us. They were as follows,
 
 - Jean Croft (KSHS Librarian)
@@ -41,8 +37,6 @@ That leaves 4 adults that also joined us. They were as follows,
 - Leilani Waters (KSHS English Teacher)
 
 - Kinta Deacon (PCYC Superviser)
-
-
 
 ## Journey details
 
@@ -71,8 +65,6 @@ These are the glorious Alligator Creek Falls, up close and personal.
 Finally here is everyone having fun (and me freezing, since the water was quite cold)!
 
 ![5bbc6d86b0c2e](https://i.loli.net/2018/10/09/5bbc6d86b0c2e.jpg)
-
-
 
 ### Map
 
@@ -116,10 +108,6 @@ As for the weight of my pack, I think it did end up tipping the scales at around
 
 The food contained within the drawstring bag full of food contained too much unnecessary food articles such as snacks. My portion sizes were not that bad, this meant I didn't bring back a lot of food from my preplanned meals such as dinner and breakfast. My plan of attack next time is to consolidate my snacks into one bag of trail mix, and take just that convenient bag instead of a million. 
 
-
-
 Also next time I probably will document all my equipment with photos, maybe with all of it laid out on the floor in order to see what I'm taking.
 
 
-
-[← Back to home page](https://riversharp4.github.io/DukeOfEdinburgh/)
