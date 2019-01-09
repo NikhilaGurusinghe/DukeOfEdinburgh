@@ -79,7 +79,9 @@ Below is the map of the group's journey, it consists of waypoints recorded from 
 
 An interactive version of this map is available [here](https://api.mapbox.com/styles/v1/nikhila/cjna8fhmv05tb2sruezdwauwm.html?fresh=true&title=true&access_token=pk.eyJ1IjoibmlraGlsYSIsImEiOiJjam42b3Z5dXcwOWN6M3ZtbHd2MW1oYzZ1In0.9bFwPJcbgmxWnypkx_vA-Q#14.2/-18.964000/146.176000/0).
 
-<!DOCTYPE html><html>
+<!DOCTYPE html>
+
+<html>
 
 <head>
 
