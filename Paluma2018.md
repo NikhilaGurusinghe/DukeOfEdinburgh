@@ -79,40 +79,6 @@ Below is the map of the group's journey, it consists of waypoints recorded from 
 
 An interactive version of this map is available [here](https://api.mapbox.com/styles/v1/nikhila/cjna8fhmv05tb2sruezdwauwm.html?fresh=true&title=true&access_token=pk.eyJ1IjoibmlraGlsYSIsImEiOiJjam42b3Z5dXcwOWN6M3ZtbHd2MW1oYzZ1In0.9bFwPJcbgmxWnypkx_vA-Q#14.2/-18.964000/146.176000/0).
 
-<!DOCTYPE html>
-
-<html>
-
-<head>
-
-    <meta charset='utf-8' />
-
-    <title>Display a map</title>
-
-    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-
-    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.js'></script> 
-
-    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.css'     rel='stylesheet' />
-
-<style>
-
-body { margin:0; padding:0; }#map { position:absolute; top:0; bottom:0; width:100%; }
-
-</style>
-
-</head><body> 
-
-<div id='map'></div>
-
-<script>mapboxgl.accessToken = 'pk.eyJ1IjoibmlraGlsYSIsImEiOiJjam42b3Z5dXcwOWN6M3ZtbHd2MW1oYzZ1In0.9bFwPJcbgmxWnypkx_vA-Q';
-
-const map = new mapboxgl.Map({container: 'map',style: 'mapbox://styles/nikhila/cjna8fhmv05tb2sruezdwauwm',center: [146.173125, -18.961582],zoom: 13.8});
-
-</script>
-
- </body></html>
-
 ---
 
 ### Equipment List
