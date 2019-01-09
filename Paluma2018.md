@@ -116,7 +116,9 @@ From left to right, the equipment is the first aid kit, the ground tarp, the acc
 
 ### Food List and Menu Plan
 
-The full food list can be found [here](https://riversharp4.github.io/DukeOfEdinburgh/DukeofEdAJFood.pdf).
+| List                                                                                                                  | Review and Description of Items |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| The full food and utensil list can be found [here](https://riversharp4.github.io/DukeOfEdinburgh/DukeofEdAJFood.pdf). |                                 |
 
 ---
 
