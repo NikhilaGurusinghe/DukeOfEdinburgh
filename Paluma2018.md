@@ -132,4 +132,4 @@ From left to right, the equipment is the first aid kit, the ground tarp, the acc
 
 
 
-[← Back to home page](https://riversharp4.github.io/DukeOfEdinburgh/)
+
