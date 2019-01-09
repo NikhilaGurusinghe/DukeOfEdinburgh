@@ -1,4 +1,4 @@
-# The Duke of Edinburgh's International Award
+# [The Duke of Edinburgh's International Award](https://riversharp4.github.io/DukeOfEdinburgh/)
 
 ## Bronze Qualifying Adventurous Journey Report
 
@@ -65,9 +65,11 @@ Wilfred's lookout,
 
 and Torsten's Rock Gardens. 
 
-![5c35c6623641a](https://i.loli.net/2019/01/09/5c35c6623641a.jpg)
+![5c35cf0e4b13b](https://cdn.discordapp.com/attachments/483092402215845890/532507982232289280/IMG_6934.JPG)
 
-![5c35c69ac43fc](https://i.loli.net/2019/01/09/5c35c69ac43fc.jpg)
+
+
+![5c35c69ac43fc](https://cdn.discordapp.com/attachments/483092402215845890/532507985382080522/IMG_6931.JPG)
 
 The Adventurous Journey party managed to navigate to Johnstone's Clearing and back to Paluma Dam in a little under 10 hours, with approximately half of this time being devoted to "moving time", whilst the other was spent resting or stopped on the trail.
 
@@ -76,6 +78,8 @@ Below is the map of the group's journey, it consists of waypoints recorded from 
 ![5c35c561e53e7](https://i.loli.net/2019/01/09/5c35c561e53e7.png)
 
 An interactive version of this map is available [here](https://api.mapbox.com/styles/v1/nikhila/cjna8fhmv05tb2sruezdwauwm.html?fresh=true&title=true&access_token=pk.eyJ1IjoibmlraGlsYSIsImEiOiJjam42b3Z5dXcwOWN6M3ZtbHd2MW1oYzZ1In0.9bFwPJcbgmxWnypkx_vA-Q#14.2/-18.964000/146.176000/0).
+
+<html><head><meta charset='utf-8' /><title>Display a map</title><meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' /><script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.js'></script><link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.css' rel='stylesheet' /><style>body { margin:0; padding:0; }#map { position:absolute; top:0; bottom:0; width:100%; }</style></head><body> <div id='map'></div><script>mapboxgl.accessToken = 'pk.eyJ1IjoibmlraGlsYSIsImEiOiJjam42b3Z5dXcwOWN6M3ZtbHd2MW1oYzZ1In0.9bFwPJcbgmxWnypkx_vA-Q';const map = new mapboxgl.Map({container: 'map',style: 'mapbox://styles/nikhila/cjna8fhmv05tb2sruezdwauwm',center: [146.173125, -18.961582],zoom: 13.8});</script> </body></html>
 
 ---
 
@@ -124,4 +128,8 @@ From left to right, the equipment is the first aid kit, the ground tarp, the acc
 
 ---
 
-### Thoughts and Redlections
+### Thoughts and Reflections
+
+
+
+[← Back to home page](https://riversharp4.github.io/DukeOfEdinburgh/)
