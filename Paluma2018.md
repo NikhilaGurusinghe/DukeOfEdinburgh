@@ -6,8 +6,9 @@
 
 ### Journey Details
 
-| Name                          | Paluma Qualifying Adventurous Journey                                                                                                     |
+|                               |                                                                                                                                           |
 |:----------------------------- |:----------------------------------------------------------------------------------------------------------------------------------------- |
+| **Name**                      | Paluma Qualifying Adventurous Journey                                                                                                     |
 | **Type**                      | Expedition                                                                                                                                |
 | **Mode of Travel**            | Bushwalking                                                                                                                               |
 | **Dates**                     | **Start:** 11/10/2018 <br/>**Finish:** 12/10/2018                                                                                         |
