@@ -21,23 +21,28 @@
 
 ### Journey Group Members
 
-All together there were NUMBER of members, including NUMBER student members and NUMBER teachers, assessors and supervisors.
+All together there were 12 of members, including 8 student members and 4 teachers, assessors and supervisors.
 
-PICTURE
+The names of the student members,
 
-The names of the student members from left to right,
-
-* TBA
+* Nikhila Gurusinghe (Me)
+* Muna Toba
+* Eleanor Barker
+* Noah Roden
+* Kasey Gardner 
+* Molly Gardner
+* Ksu Girs'ka
+* Ethan Pieres
 
 Also below are the names of the teachers, assessors and supervisors that joined the student members,
 
-* Jean Croft
+* Jean Croft (KSHS Librarian)
 
-* Chappy
+* Joshua Frewen-Lord (KSHS Chaplain)
 
-* Dr Kerr
+* Sarah Kerr (KSHS Science Teacher with a PhD in Biology)
 
-* Kinta
+* Kinta Deacon (PCYC Superviser)
 
 ---
 
