@@ -110,4 +110,4 @@ The food contained within the drawstring bag full of food contained too much unn
 
 Also next time I probably will document all my equipment with photos, maybe with all of it laid out on the floor in order to see what I'm taking.
 
-
+[← Back to home page](https://riversharp4.github.io/DukeOfEdinburgh/)
