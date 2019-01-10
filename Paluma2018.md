@@ -23,7 +23,7 @@
 
 All together there were 12 of members, including 8 student members and 4 teachers, assessors and supervisors.
 
-The names of the student members,
+The names of the student members are as follows,
 
 * Nikhila Gurusinghe (Me)
 * Muna Toba
@@ -37,11 +37,8 @@ The names of the student members,
 Also below are the names of the teachers, assessors and supervisors that joined the student members,
 
 * Jean Croft (KSHS Librarian)
-
 * Joshua Frewen-Lord (KSHS Chaplain)
-
 * Sarah Kerr (KSHS Science Teacher with a PhD in Biology)
-
 * Kinta Deacon (PCYC Superviser)
 
 ---
@@ -80,7 +77,7 @@ Below is the map of the group's journey, it consists of waypoints recorded from 
 
 ![5c35c561e53e7](https://i.loli.net/2019/01/09/5c35c561e53e7.png)
 
-An interactive version of this map is available [here](https://api.mapbox.com/styles/v1/nikhila/cjna8fhmv05tb2sruezdwauwm.html?fresh=true&title=true&access_token=pk.eyJ1IjoibmlraGlsYSIsImEiOiJjam42b3Z5dXcwOWN6M3ZtbHd2MW1oYzZ1In0.9bFwPJcbgmxWnypkx_vA-Q#14.2/-18.964000/146.176000/0).
+An interactive version of this map is available [here](https://api.mapbox.com/styles/v1/nikhila/cjna8fhmv05tb2sruezdwauwm.html?fresh=true&title=true&access_token=pk.eyJ1IjoibmlraGlsYSIsImEiOiJjam42b3Z5dXcwOWN6M3ZtbHd2MW1oYzZ1In0.9bFwPJcbgmxWnypkx_vA-Q#14.2/-18.964000/146.176000/0). I highly recommend you check this out, as this a fully accurate topographical map, with the waypoints from the GPS overlayed on top.
 
 ---
 
@@ -89,7 +86,7 @@ An interactive version of this map is available [here](https://api.mapbox.com/st
 | List                     | Review and Description of Items                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Accessory bag            | This very large ziplock bag contained a writing pad as well as stationary, a pocket knife, sunscreen, various repair kits, bug repellent and toiletries. One minor improvent would be the consideration of the the size of ziplock bag, other than this there was no other room for improvement in regards to this item.                                                                                                                                                                                                                                                                  |
-| Drawstring bag of food   | The food was physically really large and difficult to compact, since food items would get crushed. However there was just enough space for the bag at the top of my pack. One major flaw was my drawstring bag ripping along a seam, which was quickly fixed by some cloth tape supplied by a team member. Thus it might be useful to bring cloth tape for any further journeys.                                                                                                                                                                                                          |
+| Drawstring bag of food   | The food was really large and difficult to compact, since food items would get crushed. However there was just enough space for the bag at the top of my pack. One major flaw was my drawstring bag ripping along a seam, which was quickly fixed by some cloth tape supplied by a team member. Thus it might be useful to bring cloth tape for any further journeys.                                                                                                                                                                                                                     |
 | Clothes                  | Consisting of pyjamas, a swimming outfit, a jacket, a raincoat and a spare pair of socks. There are three points of review as far as clothing is concerned, pertaining to the swimming outfit, raincoat and socks. First, the swimming outfit could be replaced with another set of hiking clothes, or wholly excluded with any wet clothes being dried overnight. Secondly, the raincoat can be removed as, usually, it never rains and it is possible to survive in rain without a raincoat. Finally, the socks were an unnecessary addition and should be removed for future journeys. |
 | Bowl and eating utensils | The bowl and eating utensils could not be further improved. However the addition of a fork (for eating) and metal spoon (for cooking) proved a good idea.                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | First aid kit            | The first aid kit was not used, however when the need for iodine and a bandaid arose, I was attended to by another member of the group. However, it should be noted that this first aid kit contains both iodine and bandaids. Although, a useful addition to the first aid kit would be iodine wipes instead of the liquid, which tends to be messy and difficult to apply to wounds.                                                                                                                                                                                                    |
@@ -149,7 +146,7 @@ followed by this warning sign, which is meant to deter amateur hikers who are le
 
 ![5c36bb255e5ca](https://i.loli.net/2019/01/10/5c36bb255e5ca.jpg)
 
-From Marker 29 we went toward Marker 30, and turned toward Marker 31, Torsten's Rock Gardens and Wilfred's Lookout.
+From Marker 29 we went toward Marker 30, and turned toward Marker 31, which was Torsten's Rock Gardens and Wilfred's Lookout.
 
 ![5c36bc88bead9](https://i.loli.net/2019/01/10/5c36bc88bead9.jpg)
 
@@ -157,7 +154,7 @@ There are some photo's of Wilfred's Lookout and Torsten's Rock Gardens above, bu
 
 ![5c36bd0baea83](https://i.loli.net/2019/01/10/5c36bd0baea83.jpg)
 
-From the Lookout, it was off to Torsten's Rock Gardens or Marker 32,
+From the Lookout, it was off to Torsten's Rock Gardens and Marker 32,
 
 ![5c36bd634c49c](https://i.loli.net/2019/01/10/5c36bd634c49c.jpg)
 
@@ -165,7 +162,7 @@ the rock formations and large trees here were quite spectacular and we even saw 
 
 ![5c36be4af1eab](https://i.loli.net/2019/01/10/5c36be4af1eab.jpg)
 
-These Marker are metal discs on the top of a metal rod which is dug into the ground and disks themselves lie horizontal and face the sky. The face of the Marker has compass degree markings which are immensely helpful when navigating the trail with a compass, and the number of the next Marker that should appear. From 33 it was off to 34 and the majestic Crystal Creek Falls.
+These Marker are metal discs on the top of a metal rod which is dug into the ground, the disks themselves lie horizontal and face the sky. The face of the Marker has compass degree markings which are immensely helpful when navigating the trail with a compass, and the number of the next Marker that should appear. From 33 it was off to 34 and the majestic Crystal Creek Falls.
 
 ![5c36bef71f6f9](https://i.loli.net/2019/01/10/5c36bef71f6f9.jpg)
 
@@ -173,11 +170,11 @@ Did I mention how gorgeous Crystal Creek Falls is? It is quite a sight to behold
 
 ![5c36c011d19f8](https://i.loli.net/2019/01/10/5c36c011d19f8.jpg)
 
-The area of Crystal Creek Falls we stumbled across was very high, and had a downward slope that was completely dry and devoid of water, which meant we could go to the "cliff area" where the falls actually spilled over. At the very top of this area was an extremely cold pool of water, this is where we had a little swim and refilled our water reserviors. The rock in this area was exposed and looked either sedimentary or igneous.
+The area of Crystal Creek Falls we stumbled across was very high, and had a downward slope that was completely dry and devoid of water, which meant we could go to the "cliff area" where the falls actually spilled over. At the very top of this area was an extremely cold pool of water, this is where we had a little swim and refilled our water reservoirs. The rock in this area was exposed and looked either sedimentary or igneous.
 
 ![5c36c064e3034](https://i.loli.net/2019/01/10/5c36c064e3034.jpg)
 
-I grazed my knee here, trying to recklessly climb up a tiny ledge – lucky a team members had her first aid kit handy. Then we hiked in our swimming kits all the way to Johnstone's Clearing, past Marker 28.
+I grazed my knee here, trying to recklessly climb up a tiny ledge – luckily a team members had her first aid kit handy. Then we hiked in our swimming kits all the way to Johnstone's Clearing, past Marker 28.
 
 ![5c36c143ec5ed](https://i.loli.net/2019/01/10/5c36c143ec5ed.jpg)
 
@@ -187,7 +184,7 @@ There was a creek crossing, where a rope strung between two trees on either bank
 
 "To not step in the water", replied the teacher.
 
-I thought this was quite hilarious.
+I thought this exchange was quite hilarious.
 
 ![5c36c202a52c0](https://i.loli.net/2019/01/10/5c36c202a52c0.jpg)
 
@@ -199,7 +196,11 @@ And here is the Marker for Johnstone's Clearing.
 
 ![5c36c7ce6d3a7](https://i.loli.net/2019/01/10/5c36c7ce6d3a7.jpg)
 
-After we reached our goal and destination we set up camp, collected wood for a campfire and got into our pyjamas. The campfire was very nice and one of the teachers bought some different coloured firelighters which made our campfire all sorts of different colours. Our dinner for Day 1 was penne with tomato pasta sauce, salami and cheese as well as oregano sprinkled on top. The pasta took forever to cook, but it was an amazing meal, and non of the pasta went to waste. Next was dessert – a campfire banana split with marshmallows, chocolate chips and biscuits. Dessert was equally as amazing and all in all dinner was well done and cooked "from scratch". We did the dishes (easily my favourite part of camping) and hung our food out of the reaches of the native wildlife. Then it was lights out, I stayed up a little to marvel at the sky which was devoid of any light pollution, and then I went to sleep along with the rest of the camp.
+After we reached our goal and destination we set up camp, collected wood for a campfire and got into our pyjamas. The campfire was very nice and one of the teachers bought some different coloured firelighters which made our campfire all sorts of colours. 
+
+Our dinner for Day 1 was penne with tomato pasta sauce, salami and cheese as well as oregano sprinkled on top. The pasta took forever to cook, but it was an amazing meal, and non of the pasta went to waste. Next was dessert – a campfire banana split with marshmallows, chocolate chips and biscuits. Dessert was equally as amazing and all in all dinner was well done and cooked "from scratch". 
+
+We did the dishes (easily my favourite part of camping) and hung our food out of the reaches of the native wildlife. Then it was lights out, I stayed up a little to marvel at the sky which was devoid of any light pollution, and then I went to sleep along with the rest of the camp.
 
 
 
@@ -209,11 +210,15 @@ The next day I was awoken to a symphony of birds calling, I could not believe ho
 
 "Camp oats are always the best",
 
-and I agree with her. The oats we made were really delicious, we even added apple and some blueberries. The portions were just the right amount as well, which was definitely a plus.
+and I agree with her. The oats we made were really delicious, we even added apple slices and some blueberries. The portions were just the right amount as well, which was definitely a plus.
 
 ![5c36c762d64e0](https://i.loli.net/2019/01/10/5c36c762d64e0.jpg)
 
-After breakfast, we prepared lunch for Day 2 and set off, leaving Johnstone's Clearing behind. We did not go the way we came from, rather we did a bit of a detour so we could see more of the area. Before long we reached Marker 13, with the direction for Johnstone's Clearing indicated on the Marker face.
+After breakfast, we prepared lunch for Day 2 and set off, leaving Johnstone's Clearing behind. 
+
+Lunch was egg and lettuce sandwiches, which was heavy on preperation time but definitely "hit the spot" after a long day of hiking.
+
+We did not go the way we came from, rather we did a bit of a detour so we could see more of the area. Before long we reached Marker 13, with the direction for Johnstone's Clearing indicated on the Marker face.
 
 ![5c36c891bfdf1](https://i.loli.net/2019/01/10/5c36c891bfdf1.jpg)
 
@@ -221,7 +226,7 @@ Here is a photo of the dense foilage and terrain we faced along the trail,
 
 ![5c36c91341e48](https://i.loli.net/2019/01/10/5c36c91341e48.jpg)
 
-as well as a refridgerator tree. Which is a tree that is distinctly red and stands out against the green background of the foilage and bush. The major "wow factor" of this tree comes from the fact that when you feel the tree, it is abnormally cold – like a refridgerator.
+as well as a refridgerator tree. Which is a tree that is distinctly red and stands out against the green background of the foilage and bush. The major "wow factor" of this tree comes from the fact that when you feel the tree, it is abnormally cold – like a refridgerator. 
 
 ![5c36c9b25e766](https://i.loli.net/2019/01/10/5c36c9b25e766.jpg)
 
@@ -233,7 +238,7 @@ which is a picturesque, little and cozy hut that is available to be rented by hi
 
 ![5c36cafd8998e](https://i.loli.net/2019/01/10/5c36cafd8998e.jpg)
 
-There is a large water reservoir next to it, this is where we refilled our water supplies.
+There is a large creek next to it, this is where we refilled our water supplies.
 
 ![5c36caa9ab7ea](https://i.loli.net/2019/01/10/5c36caa9ab7ea.jpg)
 
@@ -263,6 +268,6 @@ And yes, those are clouds.
 
 ### Thoughts and Reflections
 
-All this hiking through dense jungle really makes you feel like an explorer. It puts into perspective the people who have devoted their life to the trail. This includes early explorers from colonial Australia to people who do it to this day. I really enjoy the eerie quietness of it and the different sounds that echo through the bush. 
+All this hiking through dense jungle really makes you feel like an explorer. It puts into perspective the people who have devoted their life to the trail. This includes early colonial Australian explorers to people who do it to this day. I really enjoy the eerie quietness of it and the different sounds that echo through the bush. 
 
 All in all, I thought that we prepared well and we executed well. Ultimately, it was an enjoyable trip and I can't wait till we go again on another Journey.
